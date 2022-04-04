@@ -16,8 +16,6 @@
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>
 
-### 🛠 &nbsp;Tech Stack
-
 <br />
 
 <h4>📋 Languages</h4>
