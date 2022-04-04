@@ -11,7 +11,9 @@
 <!-- 📄 &nbsp;Please have a look at my [LinkedIn Profile](https://www.linkedin.com/in/halazbib/) for more details about me. I'm open to feedback and suggestions! -->
 
 <br/>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<center>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</center>
 <br/>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>
